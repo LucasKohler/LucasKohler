@@ -28,12 +28,7 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-<summary>:zap: Recent Github Activity</summary>
+<summary>:zap: Atividade recente no github</summary>
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com//eduardotai/backendgobarber/pull/1) in [eduardotai/backendgobarber](https://github.com//eduardotai/backendgobarber)
@@ -41,9 +36,12 @@
 
 ---
 
-<summary>:zap: Github Stats</summary>
+<summary>:zap: Status do github</summary>
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=LucasKohler&show_icons=true&hide_border=true" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKohler&theme=radical&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasKohler&show_icons=true&theme=radical&line_height=21" alt="Ohidur's github stats"/>
+</p>
 
 
 [twitter]: https://twitter.com/KohlerMarques
