@@ -28,14 +28,6 @@
 
 ---
 
-<summary>:zap: Atividade recente no github</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//eduardotai/backendgobarber/pull/1) in [eduardotai/backendgobarber](https://github.com//eduardotai/backendgobarber)
-<!--END_SECTION:activity-->
-
----
-
 <summary>:zap: Status do github</summary>
 
 <p align="center">
