@@ -1,4 +1,4 @@
-### Olá, bem vindo ao meu perfil 👋
+### Olá, seja bem vindo ao meu perfil 👋
 
 ## Sou um desenvolvedor web junior e também um estudante universitário!
 
