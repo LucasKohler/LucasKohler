@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
-## Sou um desenvolvedor web junior e também um estudante universitário!
+## Sou um estudante de desenvolvimento web!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento base sobre programação.
 - 🌱 Atualmente estou estudando JavaScript e seu ecosistema.
