@@ -3,7 +3,7 @@
 ## Sou um estudante de desenvolvimento web!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento base sobre programação.
-- 🌱 Atualmente estou estudando JavaScript e seu ecossistema.
+- 🌱 Atualmente estou estudando ReactJS e NodeJS.
 - ⚡ Curiosidade: Gosto de animes e games.
 
 ### Se conecte comigo:
