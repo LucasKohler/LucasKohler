@@ -3,7 +3,7 @@
 ## Sou um estudante de desenvolvimento web!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento base sobre programação.
-- 🌱 Atualmente estou estudando ReactJS, NodeJS, ReactNative e .NET.
+- 🌱 Atualmente estou estudando ReactJS, NodeJS, ReactNative e elixir.
 - ⚡ Curiosidade: Gosto de animes e games.
 
 ### Se conecte comigo:
