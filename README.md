@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
-## Sou um estudante de desenvolvimento web!
+## Sou um Engenheiro de Software se aventurando no mundo javascript!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento sobre programação.
 - 🌱 Atualmente estou estudando o ecossistema do ReactJS e NodeJS.
