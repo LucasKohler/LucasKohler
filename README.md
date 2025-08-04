@@ -1,9 +1,9 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
-## Sou um Engenheiro de Software se aventurando no mundo javascript!
+## Sou um Desenvolvedor de Software se aventurando no mundo javascript!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento sobre programação.
-- 🌱 Atualmente estou estudando o ecossistema do ReactJS e NodeJS.
+- 🌱 Atualmente estou estudando Arquitetura de software, ReactJS, C#, .NET e DevOps
 
 ### Se conecte comigo:
 
