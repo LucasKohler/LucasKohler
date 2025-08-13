@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo ao meu perfil 👋
 
-## Sou um Desenvolvedor de Software se aventurando no mundo javascript!
+## Sou um Desenvolvedor de Software em busca de novas oportunidades!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento sobre programação.
 - 🌱 Atualmente estou estudando Arquitetura de software, ReactJS, C#, .NET e DevOps
