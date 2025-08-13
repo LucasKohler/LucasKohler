@@ -3,7 +3,7 @@
 ## Sou um Desenvolvedor de Software em busca de novas oportunidades!
 
 - 🔭 Estou em busca de aprimorar meu conhecimento sobre programação.
-- 🌱 Atualmente estou estudando Arquitetura de software, ReactJS, C#, .NET e DevOps
+- 🌱 Atualmente estou estudando Arquitetura de software, ReactJS, C#, .NET, NodeJS e DevOps
 
 ### Se conecte comigo:
 
