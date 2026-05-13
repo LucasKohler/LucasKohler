@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Lucas Kohler Marques 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | .NET Fullstack Developer | React & Blazor | Software Architecture & AI Automation</strong>
+  <strong>Software Engineer | .NET Fullstack Developer | React, Next.js & Blazor | Software Architecture & AI-Assisted Development</strong>
 </p>
 
 <p align="center">
-  Software Developer with 4+ years of experience building web solutions, APIs, microservices, and performance-driven systems focused on security, scalability, and business value.
+  Software Developer with 4+ years of experience building web applications, APIs, microservices, and performance-driven systems focused on security, scalability, maintainability, and business value.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-kohler-marques/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lucaskohlermarqueswork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 ## Main Technical Focus
 
 - Backend development with **C#, .NET, ASP.NET Core, and Entity Framework**
-- Frontend development with **React, TypeScript, JavaScript, and Blazor**
+- Frontend development with **React, Next.js, TypeScript, JavaScript, and Blazor**
 - Design and consumption of **RESTful APIs**
 - Data modeling, optimization, and analysis with **SQL Server**
 - Software architecture, microservices, and engineering best practices
@@ -45,29 +45,30 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 
 ### Backend
 <p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </p>
 
 ### Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
 ### Databases, DevOps, and Tools
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </p>
 
 ---
@@ -87,7 +88,7 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 - Software architecture
 - System design
 - Advanced .NET
-- React and Blazor
+- React, Next.js, and Blazor
 - SQL Server performance
 - DevOps and automation
 - AI-Assisted Development
@@ -97,12 +98,23 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasKohler&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKohler&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=LucasKohler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+    alt="Lucas Kohler GitHub stats"
+  />
+  <img 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKohler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    alt="Most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKohler&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=LucasKohler&theme=tokyonight&hide_border=true"
+    alt="Lucas Kohler GitHub streak"
+  />
 </p>
 
 ---
@@ -111,9 +123,9 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 
 <p>
   <a href="https://www.linkedin.com/in/lucas-kohler-marques/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lucaskohlermarqueswork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lucaskohlermarqueswork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-lucaskohlermarqueswork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
