@@ -95,20 +95,7 @@ I enjoy turning complex requirements into simple, traceable, and well-structured
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=LucasKohler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
-    alt="Lucas Kohler GitHub stats"
-  />
-  <img 
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasKohler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-    alt="Most used languages"
-  />
-</p>
+## GitHub Activity
 
 <p align="center">
   <img 
