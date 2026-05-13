@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Lucas Kohler Marques 👋</h1>
+<h1 align="center">Hi, I'm Lucas Kohler Marques 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer | .NET Fullstack Developer | React & Blazor | Arquitetura de Software & Automação com IA</strong>
+  <strong>Software Engineer | .NET Fullstack Developer | React & Blazor | Software Architecture & AI Automation</strong>
 </p>
 
 <p align="center">
-  Desenvolvedor de Software com +4 anos de experiência criando soluções web, APIs, microsserviços e sistemas orientados a performance, segurança e valor de negócio.
+  Software Developer with 4+ years of experience building web solutions, APIs, microservices, and performance-driven systems focused on security, scalability, and business value.
 </p>
 
 <p align="center">
@@ -13,35 +13,35 @@
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:lucaskohlermarqueswork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## Sobre mim
+## About Me
 
-Sou um Engenheiro de Software focado em construir aplicações que resolvem problemas reais com clareza técnica, manutenibilidade e impacto mensurável.
+I am a Software Engineer focused on building applications that solve real problems with technical clarity, maintainability, and measurable impact.
 
-Atuo principalmente com desenvolvimento fullstack, APIs, integrações, arquitetura de software, bancos de dados relacionais e modernização de sistemas. Tenho forte interesse em engenharia orientada a performance, automação de processos e uso estratégico de IA no ciclo de desenvolvimento.
+My work is mainly centered on fullstack development, APIs, integrations, software architecture, relational databases, and system modernization. I have a strong interest in performance-oriented engineering, process automation, and the strategic use of AI throughout the software development lifecycle.
 
-Gosto de transformar requisitos complexos em soluções simples, rastreáveis e bem estruturadas.
-
----
-
-## Principais focos técnicos
-
-- Desenvolvimento backend com **C#, .NET, ASP.NET Core e Entity Framework**
-- Desenvolvimento frontend com **React, TypeScript, JavaScript e Blazor**
-- Criação e consumo de **APIs RESTful**
-- Modelagem, otimização e análise de dados com **SQL Server**
-- Arquitetura de software, microsserviços e boas práticas de engenharia
-- Automação de fluxos de desenvolvimento com ferramentas modernas e IA
-- Performance, segurança, rastreabilidade e manutenção de sistemas
+I enjoy turning complex requirements into simple, traceable, and well-structured solutions.
 
 ---
 
-## Tecnologias e ferramentas
+## Main Technical Focus
+
+- Backend development with **C#, .NET, ASP.NET Core, and Entity Framework**
+- Frontend development with **React, TypeScript, JavaScript, and Blazor**
+- Design and consumption of **RESTful APIs**
+- Data modeling, optimization, and analysis with **SQL Server**
+- Software architecture, microservices, and engineering best practices
+- Development workflow automation with modern tools and AI
+- Performance, security, traceability, and system maintainability
+
+---
+
+## Technologies and Tools
 
 ### Backend
 <p>
@@ -61,7 +61,7 @@ Gosto de transformar requisitos complexos em soluções simples, rastreáveis e 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
 </p>
 
-### Banco de dados, DevOps e ferramentas
+### Databases, DevOps, and Tools
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
@@ -72,29 +72,29 @@ Gosto de transformar requisitos complexos em soluções simples, rastreáveis e 
 
 ---
 
-## Como eu gero valor
+## How I Create Value
 
-- Criação e manutenção de aplicações fullstack com foco em clareza, escalabilidade e evolução contínua.
-- Otimização de APIs e fluxos backend para melhorar tempo de resposta e eficiência operacional.
-- Desenvolvimento de soluções com preocupação real em segurança, rastreabilidade e qualidade de código.
-- Integração entre sistemas, bancos de dados e serviços externos.
-- Uso de IA como apoio técnico para acelerar análise, revisão, documentação e automação, mantendo controle humano sobre arquitetura e qualidade.
+- Building and maintaining fullstack applications with a focus on clarity, scalability, and continuous evolution.
+- Optimizing APIs and backend flows to improve response time and operational efficiency.
+- Developing solutions with real concern for security, traceability, and code quality.
+- Integrating systems, databases, and external services.
+- Using AI as a technical support tool to accelerate analysis, code review, documentation, and automation while keeping human control over architecture and quality.
 
 ---
 
-## Atualmente estudando e aprofundando
+## Currently Studying and Improving
 
-- Arquitetura de software
-- Design de sistemas
-- .NET avançado
-- React e Blazor
-- Performance em SQL Server
-- DevOps e automação
+- Software architecture
+- System design
+- Advanced .NET
+- React and Blazor
+- SQL Server performance
+- DevOps and automation
 - AI-Assisted Development
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=LucasKohler&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -107,7 +107,7 @@ Gosto de transformar requisitos complexos em soluções simples, rastreáveis e 
 
 ---
 
-## Contato
+## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/lucas-kohler-marques/" target="_blank">
