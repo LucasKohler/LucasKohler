@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Lucas Kohler Marques 👋</h1>
 
 <p align="center">
-  <strong>Product-minded Software Engineer | .NET Fullstack Developer | React, Next.js & Blazor | Software Architecture & AI-Assisted Development</strong>
+  <strong>Senior Software Engineer | Fullstack .NET (C#) · React · Angular | Kubernetes & AWS | System Design | AI-Assisted Engineering</strong>
 </p>
 
 <p align="center">
-  Software Engineer with 5+ years of experience building web applications, APIs, microservices, and product-oriented systems focused on scalability, performance, maintainability, user experience, and measurable business impact.
+  5+ years building mission-critical systems in the financial sector (BTG Pactual) and global tech (Dell Technologies).<br/>
+  I care about performance, reliability, and architecture that keeps evolving without becoming fragile — and I lead the adoption of AI agent workflows in engineering teams.
 </p>
 
 <p align="center">
@@ -15,51 +16,33 @@
   <a href="mailto:lucaskohlermarqueswork@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Rio%20de%20Janeiro%2C%20BR-Open%20to%20remote-111827?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Rio de Janeiro, Brazil — open to remote" />
 </p>
 
 ---
 
 ## About Me
 
-I am a Product-minded Software Engineer focused on building systems that connect technical quality, product decisions, and business outcomes.
+I'm a Senior Software Engineer working on fullstack systems with **C#/.NET, ASP.NET Core, Angular, React, and REST APIs**, running on **Kubernetes and AWS**. Today I work in the financial sector (BRQ Digital Solutions, client: BTG Pactual), where I build and modernize applications with strict performance, security, and availability requirements, lead external partner integrations and UAT, and handle production incidents on Kubernetes clusters.
 
-My work goes beyond implementing features. I care about understanding the problem, designing maintainable solutions, improving user experience, reducing operational friction, and creating software that can evolve without becoming fragile over time.
+My work goes beyond shipping features: I want to understand the problem, make the trade-offs explicit, and leave systems easier to operate and change. Long term, I'm heading toward **Software Architecture**.
 
-I have experience with fullstack development, APIs, microservices, relational databases, system modernization, performance optimization, and architecture-oriented engineering. My main stack includes **C#/.NET, ASP.NET Core, React, Next.js, Blazor, TypeScript, SQL Server, MongoDB, Azure, Docker, Git, CI/CD, and AI-assisted development tools**.
-
-I am especially interested in the intersection between **software engineering, product thinking, architecture, automation, and AI-powered development workflows**.
+I'm also deep into **AI-assisted engineering**: designing agent workflows (planning, implementation, independent review, and validation split across specialized agents), spec-driven development, and context engineering — always with human supervision over architecture, security, and quality.
 
 ---
 
-## Product Engineering Mindset
+## Highlights
 
-I believe great software is not only about clean code. It is about building the right solution, for the right problem, with enough technical quality to scale.
-
-My engineering approach is based on:
-
-- Understanding product context before jumping into implementation
-- Translating business needs into clear technical decisions
-- Designing systems with maintainability, observability, and evolution in mind
-- Balancing delivery speed with long-term architecture quality
-- Improving user experience through performance, usability, and reliability
-- Using AI as an engineering multiplier, not as a replacement for technical judgment
+- **2x** team story-point delivery after designing and rolling out an AI agent workflow (multi-model AI Harness on GitHub Copilot + spec-driven development with OpenSpec) — *BTG Pactual*
+- **Automated manual QA execution** with AI agents: scenario execution, result validation, and evidence capture for traceable E2E tests — *BTG Pactual*
+- **Up to 10x faster** API response times and **80% fewer** production incidents — *Dell Technologies*
+- **50% faster** resolution of critical incidents — *Dell Technologies*
+- **Up to 3x faster** on 10+ critical product screens — *Plannera*
+- Led a **MongoDB → SQL Server migration** of an analytics platform with hundreds of millions of records — *Plannera*
 
 ---
 
-## Main Technical Focus
-
-- Fullstack development with **C#, .NET, ASP.NET Core, React, Next.js, TypeScript, JavaScript, and Blazor**
-- Design and evolution of **RESTful APIs**, integrations, and backend services
-- Software architecture, system design, modularization, and maintainable codebases
-- Data modeling, query optimization, indexing, and analytical workloads with **SQL Server**
-- Experience with **MongoDB to SQL Server migration**, high-volume data modeling, and performance-driven database design
-- Frontend engineering with focus on reusable components, state management, UX, and responsive interfaces
-- CI/CD, Git workflows, Docker, Azure DevOps, GitHub, and development automation
-- AI-assisted development for code analysis, refactoring support, documentation, review, and productivity
-
----
-
-## Technologies and Tools
+## Tech Stack
 
 ### Backend
 <p>
@@ -67,93 +50,88 @@ My engineering approach is based on:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Microservices-111827?style=for-the-badge&logo=dotnet&logoColor=white" alt="Microservices" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
 </p>
 
 ### Frontend
 <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/UX%20Engineering-111827?style=for-the-badge&logo=figma&logoColor=white" alt="UX Engineering" />
-  <img src="https://img.shields.io/badge/Design%20Systems-0F172A?style=for-the-badge&logo=storybook&logoColor=white" alt="Design Systems" />
+  <img src="https://img.shields.io/badge/Micro%20Frontends-111827?style=for-the-badge&logo=webpack&logoColor=white" alt="Micro Frontends" />
 </p>
 
-### Databases
+### Data
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Data%20Modeling-111827?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Modeling" />
-  <img src="https://img.shields.io/badge/Query%20Optimization-1F2937?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Query Optimization" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
-### DevOps, Cloud, and Tools
+### Cloud & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/Azure%20Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Cloud" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/CI%2FCD-111827?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/IaC%20(CloudFormation)-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="Infrastructure as Code" />
+  <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### AI-Assisted Development
+### AI Engineering
 <p>
-  <img src="https://img.shields.io/badge/AI--Assisted%20Development-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI-Assisted Development" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude%20Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Automation-1F2937?style=for-the-badge&logo=zapier&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-1F2937?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/RAG-1F2937?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Spec--Driven%20(OpenSpec)-1F2937?style=for-the-badge&logo=markdown&logoColor=white" alt="Spec-Driven Development" />
 </p>
 
 ---
 
-## How I Create Value
+## Featured Projects
 
-- Building fullstack applications with a strong connection between technical execution and product needs.
-- Designing APIs, services, and data flows that are easier to maintain, scale, and debug.
-- Improving product experience through faster screens, clearer flows, better state management, and more reliable interfaces.
-- Optimizing backend performance, database queries, and integration flows to reduce latency and operational bottlenecks.
-- Supporting modernization of legacy systems with architecture awareness, refactoring strategy, and incremental evolution.
-- Applying software architecture principles to avoid fragile codebases, uncontrolled complexity, and short-term technical decisions.
-- Using AI tools to accelerate code analysis, solution review, documentation, script creation, and development workflows while preserving human responsibility over architecture, security, and quality.
+| Project | What it is | Stack |
+|---|---|---|
+| [**PolyArch Orders**](https://github.com/LucasKohler/polyarch-orders) | Architecture lab: polyglot microservices with event-driven architecture, Saga, polyglot persistence, and observability | .NET · NestJS · FastAPI · Go · Kafka · SQL Server · MongoDB · PostgreSQL · Redis · Docker |
+| [**Portfolio Platform**](https://github.com/LucasKohler/Portfolio) | Fullstack portfolio built as a real product: backend-owned content, case studies, monorepo with tests and Docker | Next.js · TypeScript · .NET 10 Minimal APIs · OpenAPI · xUnit · Docker |
+| [**Siena Voleibol**](https://github.com/LucasKohler/Siena-app) | Internal digital hub for a volleyball team (~40 users): API + mobile app with calendar and videos, ADRs documenting decisions | .NET 10 · EF Core · PostgreSQL · Expo / React Native · JWT · Docker |
+| [**Futebol Atemporal**](https://github.com/LucasKohler/futebol-atamporal) | Mobile-first app for weekly football games: waitlist with priority, monthly fees, balanced team draft, rankings | Next.js 15 · ASP.NET Core · EF Core · Identity · PostgreSQL |
+| [**AI for Devs**](https://github.com/LucasKohler/IA-para-devs-rocketseat) | Hands-on study of LLMs: RAG (including code review RAG), AI agents, fine-tuning, prompt engineering, chatbots | Python · Jupyter · LLMs · Vector search |
+
+---
+
+## Currently
+
+- 🔭 Building the **Engineering Intelligence Platform** — a study project for distributed systems: a workflow & job processing engine in Go, RAG over engineering knowledge, Kafka, Qdrant, Kubernetes, and IaC on AWS
+- 🌱 Learning **Go** and **Python** (beginner, hands-on through personal projects)
+- 📐 Studying **Software Architecture & System Design**: distributed systems, DDD, Clean Architecture, resilience patterns
+- 🎯 Preparing for **AWS** and **Anthropic (Claude)** certifications
 
 ---
 
 ## Engineering Principles
 
-- Code that works is not always code that is ready to scale.
-- Product impact and technical quality should evolve together.
-- Architecture should reduce future friction, not create theoretical complexity.
-- AI is most valuable when combined with strong engineering judgment.
-- Maintainability, observability, and traceability are part of delivery quality.
-- Good software decisions start before the first line of code.
-
----
-
-## Currently Studying and Improving
-
-- Product Engineering
-- Software Architecture
-- System Design
-- Advanced .NET and ASP.NET Core
-- React, Next.js, TypeScript, and Blazor
-- SQL Server performance and high-volume data modeling
-- DevOps, CI/CD, Docker, and cloud-native engineering
-- AI-assisted development, agentic coding workflows, and development automation
+- Code that works is not always code that is ready to grow.
+- Make trade-offs explicit; architecture should reduce future friction, not add theoretical complexity.
+- Observability, traceability, and tests are part of delivery quality.
+- AI is an engineering multiplier — never a replacement for technical judgment.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com/?user=LucasKohler&theme=tokyonight&hide_border=true"
     alt="Lucas Kohler GitHub streak"
   />
@@ -161,13 +139,6 @@ My engineering approach is based on:
 
 ---
 
-## Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/lucas-kohler-marques/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Kohler%20Marques-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:lucaskohlermarqueswork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lucaskohlermarqueswork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  🇧🇷 Portuguese (native) · 🇺🇸 English (advanced, daily work with international teams)
 </p>
